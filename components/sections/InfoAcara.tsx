@@ -5,7 +5,7 @@ export default function InfoAcara() {
     <section className="w-full flex flex-col relative">
       {/* Gambar Background Info Acara */}
       <Image 
-        src="/bg-info.png" 
+        src="/bg-info1.png" 
         alt="Informasi Acara Khitan" 
         width={1080} 
         height={1920} 

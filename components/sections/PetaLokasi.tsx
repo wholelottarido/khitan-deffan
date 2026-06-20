@@ -5,7 +5,7 @@ export default function PetaLokasi() {
     <section className="w-full flex flex-col relative">
       {/* Gambar Background Peta Lokasi */}
       <Image 
-        src="/bg-map.png" 
+        src="/bg-map1.png" 
         alt="Peta Lokasi Khitan" 
         width={1080} 
         height={1920} 
