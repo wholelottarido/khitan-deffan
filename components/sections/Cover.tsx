@@ -9,7 +9,7 @@ export default function Cover({ namaTamu }: CoverProps) {
   return (
     <section className="relative w-full flex flex-col items-center">
       <Image 
-        src="/bg-cover.png" 
+        src="/bg-cover2.png" 
         alt="Cover Undangan Khitan" 
         width={1080} 
         height={1920} 
