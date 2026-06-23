@@ -1,6 +1,7 @@
 import Cover from "../components/sections/Cover";
 import InfoAcara from "../components/sections/InfoAcara";
 import PetaLokasi from "../components/sections/PetaLokasi";
+import MusicPlayer from "../components/MusicPlayer";
 
 // 1. Wajib ada kata 'async' di depan function
 export default async function Page({
@@ -23,6 +24,7 @@ export default async function Page({
         <Cover namaTamu={namaTamu} />
         <InfoAcara />
         <PetaLokasi />
+        <MusicPlayer />
         
       </div>
     </main>
